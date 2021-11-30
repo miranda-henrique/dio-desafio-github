@@ -1,4 +1,4 @@
-##What is git?
+## What is git?
 
 - Git is a way of keeping track of your code
 - Every time you make an important change in your code, you can store a snapshot of it as a commit. The commits are identified by hashes, so no two different commits will be mistaken as the same.
@@ -9,7 +9,9 @@
 
 - While git is a way of keeping track of your code, there are many providers that offer storage for your code and your commits. One of the most used ones is Github. The benefits of using such services is that you can easily share and build different parts of your code with your team and other developers.
 
-Main git commands ([Source](https://zepel.io/blog/13-git-commands/)):
+---------------------------------------------------------------------------------
+
+## Main git commands ([Source](https://zepel.io/blog/13-git-commands/)):
 
 `$ git init`
 - This will transform the current directory into a Git repository
